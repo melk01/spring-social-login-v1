@@ -1,0 +1,11 @@
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
+target/
+work/
+.idea/
+gradle/
+spring-social-login-poc-v1.iml
